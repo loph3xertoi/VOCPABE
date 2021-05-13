@@ -1,5 +1,5 @@
 # VOCPABE(版本2021.1.1)
- 可验证外包加解密实验仿真系统——VOCPABE(verifiable outsourcing cipher-policy attribute based encryption)
+ 可验证外包加解密的密文策略属性基加密实验仿真系统——VOCPABE(verifiable outsourcing cipher-policy attribute based encryption)
  
 软件开发平台:win7+vs2019+qt6.1.0(msvc32bit编译器)
 
