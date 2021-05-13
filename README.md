@@ -3,7 +3,7 @@
  
 软件开发平台:win7+vs2019+qt6.1.0(msvc32bit编译器)
 
- 系统中有五个软件(32bit):KDS(keyDistributionServer)、DS(DecryptionServer)、ES(EncryptionServer)、SS(StorageServer)、EDClient(EncryptionDecryptionClient)。
+ 系统中有五个软件（32bit）：KDS(keyDistributionServer)、DS(DecryptionServer)、ES(EncryptionServer)、SS(StorageServer)、EDClient(EncryptionDecryptionClient)。
  
  KDS：
  1、负责处理用户注册、登录、登出、访问策略登记、请求解密参数等请求。
