@@ -1,0 +1,26 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1928
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 192829912
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.28.29910\\include" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.28.29910\\atlmfc\\include" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\include" \
+    "C:\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\UnitTest\\include" \
+    "C:\\Windows Kits\\10\\Include\\10.0.19041.0\\um" \
+    "C:\\Windows Kits\\10\\Include\\10.0.19041.0\\shared" \
+    "C:\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt" \
+    "C:\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt" \
+    "D:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um"
+QMAKE_CXX.LIBDIRS = \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.28.29910\\lib\\x86" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Tools\\MSVC\\14.28.29910\\atlmfc\\lib\\x86" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\lib\\x86" \
+    "C:\\Windows Kits\\10\\lib\\10.0.19041.0\\ucrt\\x86" \
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\VC\\Auxiliary\\VS\\UnitTest\\lib" \
+    "C:\\Windows Kits\\10\\lib\\10.0.19041.0\\um\\x86" \
+    "D:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\lib\\um\\x86"

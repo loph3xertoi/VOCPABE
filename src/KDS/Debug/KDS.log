@@ -1,0 +1,22 @@
+﻿  rcc KDS.qrc
+  MyPBC.cpp
+  RegisterLogin.cpp
+  ServerSetup.cpp
+  KDS.cpp
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(63,9): warning C4068: 未知的杂注“GCC” (编译源文件 MyPBC.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(77,9): warning C4068: 未知的杂注“GCC” (编译源文件 MyPBC.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(63,9): warning C4068: 未知的杂注“GCC” (编译源文件 KDS.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(77,9): warning C4068: 未知的杂注“GCC” (编译源文件 KDS.cpp)
+  main.cpp
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(63,9): warning C4068: 未知的杂注“GCC” (编译源文件 RegisterLogin.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(77,9): warning C4068: 未知的杂注“GCC” (编译源文件 RegisterLogin.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(63,9): warning C4068: 未知的杂注“GCC” (编译源文件 main.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(77,9): warning C4068: 未知的杂注“GCC” (编译源文件 main.cpp)
+  moc_KDS.cpp
+  moc_RegisterLogin.cpp
+  moc_ServerSetup.cpp
+  qrc_KDS.cpp
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(63,9): warning C4068: 未知的杂注“GCC” (编译源文件 Debug\moc\moc_KDS.cpp)
+C:\work\code\third\pbc\include\pbc-0.5.14\include\pbc_curve.h(77,9): warning C4068: 未知的杂注“GCC” (编译源文件 Debug\moc\moc_KDS.cpp)
+pbc.lib(d000170.o) : warning LNK4078: 找到多个“.text”节，它们具有不同的特性(E0300020)
+  KDS.vcxproj -> C:\work\code\VOCPABE\src\Debug\KDS.exe

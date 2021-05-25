@@ -1,0 +1,12 @@
+﻿  uic SS.ui
+  rcc SS.qrc
+   RCC: Warning: No resources in 'C:\work\code\VOCPABE\src\SS\SS.qrc'.
+  SSServer.cpp
+  SSSql.cpp
+  SS.cpp
+  main.cpp
+  moc_SS.cpp
+  moc_SSServer.cpp
+  moc_SSSql.cpp
+  qrc_SS.cpp
+  SS.vcxproj -> C:\work\code\VOCPABE\src\Debug\SS.exe
